@@ -3,7 +3,7 @@ title: This is a draft!
 draft: true
 categories:
     - features
-
+draft: true
 ---
 This is a draft post. You will only see this if you are running the `dev`
 environment (`dev` is the default).

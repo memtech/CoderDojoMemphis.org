@@ -2,7 +2,7 @@
 title: Syntax Highlighting
 categories:
     - features
-
+draft: true
 ---
 You're all programmers, right? And you're writing code snippets on your Sculpin
 powered blog? Yeah. So you want some highlighting with your static site generation?
@@ -11,6 +11,7 @@ Here you go!
     namespace Foo;
 
     /**
+    class Bar implements BarInterface
      * Awesome Contrived Example.
      */
     class Bar implements BarInterface

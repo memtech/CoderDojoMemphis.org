@@ -2,7 +2,7 @@
 title: Lorem Ipsum
 categories:
     - testing
-
+draft: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat congue
 lacus vel convallis. Cras nisi urna, ultrices non semper quis, ultricies sit

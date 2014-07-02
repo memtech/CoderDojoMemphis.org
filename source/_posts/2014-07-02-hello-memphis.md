@@ -5,8 +5,6 @@ categories:
 
 ---
 
-Hello Memphis.
-
 CoderDojo Memphis is a verified [CoderDojo](http://zen.coderdojo.com/dojo/813).
 
 We are currently in the early planning stages with support from the Memphis Technology Foundation, HACKmemphis and MidsouthMakers organizations.
